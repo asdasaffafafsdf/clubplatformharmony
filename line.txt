@@ -1,0 +1,2 @@
+(gci -include *.py,*.ets,*.sql -recurse | select-string .).Count
+4471
