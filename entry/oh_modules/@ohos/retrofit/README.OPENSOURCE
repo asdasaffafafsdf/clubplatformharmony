@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "retrofit",
+        "License": "Apache-2.0 License",
+        "License File": "LICENSE",
+        "Version Number": "2.9.0",
+        "Owner" : "xiafeng@huawei.com"
+        "Upstream URL": "https://github.com/square/retrofit",
+        "Description": "A type-safe HTTP client for Android and the JVM  "
+    }
+]
