@@ -1,0 +1,18 @@
+{
+  "src": [
+    "pages/Login",
+    "pages/Register",
+    "pages/Home",
+    "pages/Events",
+    "pages/CheckIn",
+    "pages/Members",
+    "pages/EventSignup",
+    "pages/Clubs",
+    "pages/Ai",
+    "pages/MemberHome",
+    "pages/MemberEventSignup",
+    "pages/MemberCheckin",
+    "pages/StackPlaceholder",
+    "pages/MemberCheckPage"
+  ]
+}
